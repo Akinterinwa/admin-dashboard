@@ -1,2 +1,7 @@
  <div dangerouslySetInnerHTML={{ __html: link.icon }} />
  using context provider
+ sync fushion
+ sparkline components
+ using the grid conmponents
+ inject services
+ learn more about suncfusion   { 3: 20: 21}
